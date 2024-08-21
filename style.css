@@ -68,3 +68,30 @@ button{
     background-color: #fcfcf9;
     color: #0a0a0a;
 }
+
+
+.btn{
+    display: inline-block;
+    padding: .3rem  .3rem;
+    background-color: #fb7c14;
+    box-shadow: 0 0 25px  #fb7c14;
+    border-radius: 4rem;
+    font-size: .7rem;
+    color: black;
+    border: 2px solid transparent;
+    letter-spacing: rem;
+    font-weight: 800;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    color: white;
+
+
+
+}
+.btn:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 50px  #fb7c14;
+}
+
